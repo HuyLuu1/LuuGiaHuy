@@ -1,6 +1,6 @@
 # NHẬT KÝ PROMPT
 - Họ tên: Lưu Gia Huy
-- MSSV: [MÃ SỐ SINH VIÊN CỦA BẠN]
+- MSSV: [25810127]
 - Công cụ AI: Gemini
 
 ## Lần 1 - Ngày 10/10/2026, 17:25
